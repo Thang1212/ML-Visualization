@@ -17,12 +17,12 @@ This visualization applies the K-Means clustering algorithm to an image of a tre
 ### 3. Linear Regression for Parabola
 This visualization uses linear regression to model a parabolic function.
 
-![Linear Regression Parabola](assets/linear-regression-parabole-demo.png)
+![Linear Regression Parabola](assets/linear-regression-parabola-demo.png)
 
 ### 4. Gradient Descent for Parabola
 This visualization illustrates how the gradient descent algorithm optimizes a parabolic function.
 
-![Gradient Descent Parabola](assets/gradient-descent-parabole-animation-demo.gif)
+![Gradient Descent Parabola](assets/gradient-descent-parabola-animation-demo.gif)
 
 ## How to Use
 Clone the repository and explore the `assets/` folder for the images:
