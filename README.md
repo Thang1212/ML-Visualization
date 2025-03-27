@@ -9,10 +9,10 @@ This visualization demonstrates how the K-Means algorithm groups randomly scatte
 
 ![K-Means Clustering](assets/kmeans-clusters-demo.png)
 
-### 2. K-Means for Image Impression
-This visualization applies the K-Means clustering algorithm to an image of a tree to generate an impressionistic effect.
+### 2. K-Means for Image Compression 
+This project demonstrates image compression using the K-Means clustering algorithm. K-Means is an unsupervised machine learning algorithm that groups similar pixels together, reducing the number of unique colors in an image. This technique is useful for reducing image size while maintaining visual quality.
 
-![K-Means Image Impression](assets/kmeans-image-impression-demo.png)
+![K-Means Image Compression](assets/kmeans-image-compressison-demo.png)
 
 ### 3. Linear Regression for Parabola
 This visualization uses linear regression to model a parabolic function.
