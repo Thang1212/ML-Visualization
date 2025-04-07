@@ -5,12 +5,13 @@ This repository contains visualizations for different machine learning algorithm
 ## Visualizations
 
 ### 1. K-Means Clustering (Random Clusters)
-This visualization demonstrates how the K-Means algorithm groups randomly scattered data points into distinct clusters.
+This visualization program demonstrates how the K-Means algorithm groups randomly scattered data points into distinct clusters.
 
 ![K-Means Clustering](assets/kmeans-clusters-demo.png)
+![K-Means Clustering Flow chart](assets/K-means-clustering-flowchart.drawio.png)
 
 ### 2. K-Means for Image Compression 
-This project demonstrates image compression using the K-Means clustering algorithm. K-Means is an unsupervised machine learning algorithm that groups similar pixels together, reducing the number of unique colors in an image. This technique is useful for reducing image size while maintaining visual quality.
+K-means clustering described above, I applied the algorithm to image compression, effectively reducing the data size by grouping similar pixel colors into clusters while maintaining the core visual quality of the image.
 
 ![K-Means Image Compression](assets/kmeans-image-compression-demo.png)
 
