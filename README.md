@@ -9,7 +9,7 @@ This visualization program demonstrates how the K-Means algorithm groups randoml
 
 ![K-Means Clustering](assets/kmeans-clusters-demo.png)
 
-General Algorithm Flowchart: 
+General program flowchart: 
 
 ![K-Means Clustering Flow chart](assets/K-means-clustering-flowchart.drawio.png)
 
