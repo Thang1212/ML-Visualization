@@ -8,6 +8,9 @@ This repository contains visualizations for different machine learning algorithm
 This visualization program demonstrates how the K-Means algorithm groups randomly scattered data points into distinct clusters.
 
 ![K-Means Clustering](assets/kmeans-clusters-demo.png)
+
+General Algorithm Flowchart: 
+
 ![K-Means Clustering Flow chart](assets/K-means-clustering-flowchart.drawio.png)
 
 ### 2. K-Means for Image Compression 
